@@ -18,4 +18,6 @@ This is an introductory project for learning how to use Power BI Desktop. The da
 - __Task 6:__ Defaults by States
 - __Task 7:__ Defaulter Ratio and Slicing the Data
 
-**Note**: You will need a Power BI Desktop app to open the project titled _"Credit_Card_Defaults"_. 
+**Note**: 
+- You will need a Power BI Desktop app to open the project titled _"Credit_Card_Defaults"_. 
+- You can check the **Preview.jpg** file to preview the completed project.
